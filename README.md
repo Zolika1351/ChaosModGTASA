@@ -10,7 +10,7 @@ There are way over 400 different effects that can happen, and the list is only g
 
 [A full documented list of effects can be found here.](https://zolika1351.pages.dev/chaos/gtasa)
 
-![pic](https://user-images.githubusercontent.com/10864159/204119821-30f06894-9182-48f5-a037-467a1899a974.jpg)
+![preview](https://user-images.githubusercontent.com/10864159/205428130-f8449368-fc31-4f35-afa2-4f9dbf4db348.jpg)
 
 # Customizability
 The mod is highly tweakable, allowing you to have the exact experience you want. Just press F7 at any time, and with the numpad, you will be able to configure any of these options to your heart's content.
