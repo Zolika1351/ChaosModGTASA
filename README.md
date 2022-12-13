@@ -6,7 +6,7 @@ To download the mod, select the latest release version to the right and follow t
 # Description
 This mod does random things to your game after a set interval. (30 seconds by default)
 
-There are way over 400 different effects that can happen, and the list is only growing with each update! Anything from giving the player health, to teleporting them, changing the physics, removing car wheels, making the whole world spin and much more.
+There are almost 500 different effects that can happen, and the list is only growing with each update! Anything from giving the player health, to teleporting them, changing the physics, removing car wheels, making the whole world spin and much more.
 
 [A full documented list of effects can be found here.](https://zolika1351.pages.dev/chaos/gtasa)
 
@@ -43,6 +43,7 @@ Twitch Voting Options:
 - Change the theme of the voting display (Light or Dark Mode)
 - Choose between proportional and majority voting (Proportional: Votes are a percentage chance, Majority: The effect with the most votes always wins)
 - Change the command for voting (1 2 3 4 or c1 c2 c3 c4)
+- Change the amount of effects available to be voted on (any amount between 2 and 9)
 - Make the voting command alternate between 1 2 3 4 and 5 6 7 8 to prevent votes bleeding over, and to allow more than one identical vote per 30 seconds on Twitch
 - Change the method in which the voting display is drawn (Separate window, on-screen or in an .html file)
 - Mark Unpicked Effects (Off: The same effect will not be available again until every other effect has won the vote at least once, On: The same effect will not be available again until every other effect has appeared in the voting window)
