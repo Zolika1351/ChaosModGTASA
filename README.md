@@ -31,6 +31,7 @@ Behavior Options:
 - Twitch voting
 - Trigger an effect when someone subscribes on Twitch
 - Synced effects, using a global timer to make multiple instances of the mod on different PCs have the same effects happen simultaneously
+- Trigger effects based on distance traveled in-game
 - Bind a key to triggering an effect
 
 Effect Options:
