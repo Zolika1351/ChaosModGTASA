@@ -6,7 +6,7 @@ To download the mod, select the latest release version to the right and follow t
 # Description
 This mod does random things to your game after a set interval. (30 seconds by default)
 
-There are way over 500 different effects that can happen, and the list is only growing with each update! Anything from giving the player health, to teleporting them, changing the physics, removing car wheels, making the whole world spin and much more.
+There are over 600 different effects that can happen, and the list is only growing with each update! Anything from giving the player health, to teleporting them, changing the physics, removing car wheels, making the whole world spin and much more.
 
 [A full documented list of effects can be found here.](https://zolika1351.pages.dev/chaos/gtasa)
 
